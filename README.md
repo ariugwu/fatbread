@@ -8,7 +8,7 @@ My recipe for low carb, high fat bread.
 | Amount  | Name  | 
 |---|---|
 |1cup| Almond Flour|
-|1 tsp| Baking soda|
+|.25 tsp| Baking soda|
 |2 tsp| Xylitol |
 
 * Hand Mix
@@ -17,7 +17,7 @@ My recipe for low carb, high fat bread.
 | Amount  | Name  | 
 |---|---|
 |1tbsp| Sugar Free Strawberry Preserves
-|1 tsp| Vanilla Extract |
+|.25 tsp| Vanilla Extract |
 
 * Hand Mix
 
