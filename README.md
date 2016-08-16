@@ -1,5 +1,5 @@
 # fatbread
-My recipe for low carb, high fat bread.
+My recipe for low carb, high fat bread. Nutritional Info here -> http://www.myfitnesspal.com/recipe/view/203855815987197
 
 ### Prep Time: 5 minutes
 ### Cook Time: 12-15 minutes
@@ -16,7 +16,7 @@ My recipe for low carb, high fat bread.
 ## Wet Ingridents
 | Amount  | Name  | 
 |---|---|
-|1tbsp| Sugar Free Strawberry Preserves
+|2tbsp| Sugar Free Strawberry Preserves
 |.25 tsp| Vanilla Extract |
 
 * Hand Mix
