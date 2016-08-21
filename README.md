@@ -7,7 +7,7 @@ My recipe for low carb, high fat bread. Nutritional Info here -> http://www.myfi
 ## Dry Ingridents
 | Amount  | Name  | 
 |---|---|
-|1cup| Almond Flour|
+|1.25 cups| Almond Flour|
 |.5 tsp| Baking soda|
 |3 tsp| Xylitol |
 
