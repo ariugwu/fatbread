@@ -8,8 +8,8 @@ My recipe for low carb, high fat bread. Nutritional Info here -> http://www.myfi
 | Amount  | Name  | 
 |---|---|
 |1cup| Almond Flour|
-|.25 tsp| Baking soda|
-|2 tsp| Xylitol |
+|.5 tsp| Baking soda|
+|3 tsp| Xylitol |
 
 * Hand Mix
 
