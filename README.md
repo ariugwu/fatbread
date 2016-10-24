@@ -5,34 +5,22 @@ My recipe for low carb, high fat bread. Nutritional Info here -> http://www.myfi
 ### Cook Time: 12-15 minutes
 
 ## Dry Ingridents
+* Hand Mix
 | Amount  | Name  | 
 |---|---|
-|1.25 cups| Almond Flour|
-|.5 tsp| Baking soda|
-|3 tsp| Xylitol |
-
-* Hand Mix
+|2.5 cups| Almond Flour|
+|1.5 tsp| Baking soda|
 
 ## Wet Ingridents
+* Combine and melt
 | Amount  | Name  | 
 |---|---|
-|2tbsp| Sugar Free Strawberry Preserves
-|.25 tsp| Vanilla Extract |
+|6 tbsp| Sugar Free Strawberry Preserves
+|2 tsp| Vanilla Extract |
+|10 tbsp | Grass Fed Butter [melted]
 
-* Hand Mix
 
-| Amount  | Name  | 
-|---|---|
-|1| Large Egg |
-|1| Lage Egg white |
-
-* Hand Mix
-
-| Amount  | Name  | 
-|---|---|
-|6 tbsp | Grass Fed Butter [melted]
-
-* Hand Mix until it's obviously cake batter
+* Combine Dry and Wet until batter
 
 ## Cook
 
