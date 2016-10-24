@@ -4,6 +4,7 @@ My recipe for low carb, high fat bread. Nutritional Info here -> http://www.myfi
 ### Prep Time: 5 minutes
 ### Cook Time: 12-15 minutes
 
+### Step 1
 ## Dry Ingridents
 | Amount  | Name  | 
 |---|---|
@@ -11,7 +12,8 @@ My recipe for low carb, high fat bread. Nutritional Info here -> http://www.myfi
 |1.5 tsp| Baking soda|
 * Hand Mix
 
-## Wet Ingridents
+### Step 2
+## Heated Ingridents
 
 | Amount  | Name  | 
 |---|---|
@@ -20,9 +22,18 @@ My recipe for low carb, high fat bread. Nutritional Info here -> http://www.myfi
 |10 tbsp | Grass Fed Butter [melted]
 * Combine and melt
 
-* Combine Dry and Wet until batter
+### Step 3
+## Eggs
+| Amount  | Name  | 
+|---|---|
+|3 Large | Egg Whites |
+|2 Large | Whole Eggs |
+* Mix eggs into dry (Step 1)
 
-## Cook
+### Step 4
+You should now have the dry ingredients and eggs mixed together (step 1 and 3). Finally mix the heated intgredients (step 2) and mix until a batter forms.
+
+#### Cook
 
 Usually 12-15 minutes @ 350 degrees. When the top is golden brown you can poke with a toothpick to test.
 
