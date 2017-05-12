@@ -8,8 +8,9 @@ My recipe for low carb, high fat bread. Nutritional Info here -> http://www.myfi
 ## Dry Ingridents
 | Amount  | Name  | 
 |---|---|
-|2.5 cups| Almond Flour|
-|1.5 tsp| Baking soda|
+|2 cups| Almond Flour|
+|1 tsp| Baking soda|
+|4 tbsp | xyioltol (optional)
 * Hand Mix
 
 ### Step 2
@@ -17,8 +18,8 @@ My recipe for low carb, high fat bread. Nutritional Info here -> http://www.myfi
 
 | Amount  | Name  | 
 |---|---|
-|6 tbsp| Sugar Free Strawberry Preserves
-|2 tsp| Vanilla Extract |
+|4 tbsp| Sugar Free Strawberry Preserves
+|1 tsp| Vanilla Extract |
 |10 tbsp | Grass Fed Butter [melted]
 * Combine and melt
 
@@ -27,11 +28,11 @@ My recipe for low carb, high fat bread. Nutritional Info here -> http://www.myfi
 | Amount  | Name  | 
 |---|---|
 |3 Large | Egg Whites |
-|2 Large | Whole Eggs |
+|1 Large | Whole Eggs |
 * Mix eggs into dry (Step 1)
 
 ### Step 4
-You should now have the dry ingredients and eggs mixed together (step 1 and 3). Finally mix the heated intgredients (step 2) and mix until a batter forms.
+You should now have the dry ingredients and eggs mixed together (step 1 and 3). Finally mix the heated intgredients (step 2) and mix until a batter forms. Make sure it's frothy.
 
 #### Cook
 
